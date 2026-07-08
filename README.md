@@ -132,11 +132,7 @@
 
 # 🐍 Contribution Snake
 
-> Enable this after creating the GitHub Action.
-
-![](https://raw.githubusercontent.com/kumaran1523/kumaran1523/output/github-contribution-grid-snake.svg)
-
----
+![Snake animation](https://raw.githubusercontent.com/kumaran1523/kumaran1523/output/github-contribution-grid-snake.svg)
 
 # 💡 Quote
 
