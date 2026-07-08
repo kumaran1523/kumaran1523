@@ -1,120 +1,154 @@
-# Hi there 👋, I'm Kumaran S
+<div align="center">
 
-<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Data Science | Machine Learning</h3>
+# Hi 👋, I'm Kumaran S
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions;Open+to+Data+Analyst+Opportunities" alt="Typing SVG" />
+### Data Analyst | SQL Developer | Python Enthusiast | Power BI Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Machine+Learning+Enthusiast;Building+Data+Driven+Solutions;Open+to+Work" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 MCA Graduate (2025)
+
+📊 Passionate about Data Analytics
+
+💻 Building real-world SQL & Python projects
+
+📈 Learning Machine Learning & Generative AI
+
+🌱 Currently improving PostgreSQL & Power BI
+
+📍 Bangalore, India
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/kumaran-s-56222529a">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:kumaranmca1521@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kumaran1523">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://kumaran-1523-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 💻 Tech Stack
 
-* 🎓 MCA Graduate (2025)
-* 📊 Passionate about **Data Analytics, SQL, Python, and Power BI**
-* 📈 Building real-world Data Analysis and Machine Learning projects
-* 🌱 Currently learning **Advanced SQL, PostgreSQL, Power BI, Machine Learning & Generative AI**
-* 💼 Looking for **Data Analyst | SQL Developer | Python Developer** opportunities
-* 📍 Bangalore, India
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode"/>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
+### Data Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql,git,github,vscode" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
 </p>
-
-### 📊 Data Analytics
-
-* SQL
-* PostgreSQL
-* MySQL
-* Power BI
-* Excel
-* Power Query
-* DAX
-* Pandas
-* NumPy
-
-### 🤖 Machine Learning
-
-* Scikit-Learn
-* Regression
-* Classification
-* Model Evaluation
-* Feature Engineering
 
 ---
 
-## 📂 Featured Projects
+# 📌 Featured Projects
 
-### 📺 Netflix SQL Data Analysis
+### 📺 Netflix SQL Analysis
 
-* Solved 15+ business problems using PostgreSQL
-* Window Functions
-* CTEs
-* String Functions
-* Data Analysis
+✔ PostgreSQL
+
+✔ Window Functions
+
+✔ CTEs
+
+✔ Business Problems
 
 ---
 
 ### 🛒 Customer Shopping Behavior Analysis
 
-* Python
-* SQLAlchemy
-* MySQL
-* Power BI Dashboard
-* Automated ETL Pipeline
+✔ Python
+
+✔ SQLAlchemy
+
+✔ Power BI
+
+✔ ETL Pipeline
 
 ---
 
-### 🤖 Knowledge Graph + Generative AI
+### 🤖 Knowledge Graph + GenAI
 
-* Python
-* Neo4j
-* LLM
-* Graph Analytics
-* Natural Language Querying
+✔ Neo4j
 
----
+✔ LLM
 
-## 📈 GitHub Stats
+✔ Graph Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kumaran1523&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaran1523&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kumaran1523&theme=tokyonight&hide_border=true" />
-</p>
+✔ AI
 
 ---
 
-## 🏆 GitHub Trophies
+### 📊 Power BI Dashboards
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumaran1523&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
+✔ Sales Dashboard
 
----
+✔ HR Dashboard
 
-## 🌐 Connect with Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/kumaran-s-56222529a
-* 🌐 Portfolio: https://kumaran-1523-portfolio.vercel.app
-* 💻 GitHub: https://github.com/kumaran1523
-* 📧 Email: [kumaranmca1521@gmail.com](mailto:kumaranmca1521@gmail.com)
+✔ Customer Dashboard
 
 ---
 
-<p align="center">
+# 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumaran1523&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable this after creating the GitHub Action.
+
+![](https://raw.githubusercontent.com/kumaran1523/kumaran1523/output/github-contribution-grid-snake.svg)
+
+---
+
+# 💡 Quote
+
+> **"Without data, you're just another person with an opinion."**
+> — W. Edwards Deming
+
+---
+
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Turning data into meaningful insights through SQL, Python, and Power BI."*
+If you like my projects, don't forget to ⭐ them.
 
-</p>
+</div>
