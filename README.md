@@ -84,17 +84,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumaran1523&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaran1523&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kumaran1523&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaran1523&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumaran1523&layout=compact&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=kumaran1523&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -102,9 +97,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kumaran1523&theme=onedark&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=kumaran1523&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
